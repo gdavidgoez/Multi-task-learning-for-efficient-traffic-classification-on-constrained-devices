@@ -1,2 +1,2 @@
 # Multi-task-learning-for-efficient-traffic-classification-on-constrained-devices
-This repository contains experimental code for MTL-based traffic classification, optimized for resource-constrained devices such as the NVIDIA Jetson TX2.
+This repository contains experimental code for MTL-based traffic classification optimized for resource-constrained devices such as the NVIDIA Jetson TX2. Our framework incorporates four distinct models, each addressing specific traffic classification tasks and focusing on computational efficiency. This efficiency is achieved through shared convolutional layers, significantly reducing computational overhead. In addition, we adapt the MTL model to TensorRT for Jetson TX2,
